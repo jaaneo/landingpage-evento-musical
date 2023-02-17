@@ -1,0 +1,1 @@
+Para el próximo jueves se debe armar una Landing page de cualquier tipo de evento musical, debe tener un hero, una sección de contenido y un formulario. El formulario debe levantar un alert y mostrar los datos que recopiló en un json.
